@@ -28,5 +28,4 @@
         android:layout_height="50dp"
         android:background="@drawable/toolbar_friends_normal" />
 
-
 </android.support.v7.widget.Toolbar>

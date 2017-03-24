@@ -3,12 +3,12 @@ package com.pudao.nestedviewpager;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
-import android.util.Log;
 
 import java.util.ArrayList;
 
 /**
  * Created by finnfu on 16/5/5.
+ *
  */
 public class MainFragmentAdapter_1 extends FragmentPagerAdapter{
 
